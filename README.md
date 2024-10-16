@@ -16,9 +16,13 @@ Scratch ist eine einfache, visuelle Programmiersprache, mit der junge Menschen g
 Link: https://scratch.mit.edu/
 
 Das Beispiel zeigt einen Flug durch unser Sonnensystem. Mit den Tasten E (erde), M (Merkur), N (Neptun), S (Saturn), V (Venus), J (Jupiter) und U (Uranus) werden die Planeten mit der Apollo angeflogen.
-Das Bild Sonnensystem png dien als Hintergrund.
+Das Bild Sonnensystem.png dient als Hintergrund.
+
+Hintergrund:
 
 ![Bild](pic/Sonnensystem.png)
+
+Programm:
 
 ![Bild](pic/Apollo-Mission_Programm.png)
 
