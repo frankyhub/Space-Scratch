@@ -26,6 +26,10 @@ Programm:
 
 ![Bild](pic/Apollo-Mission_Programm.png)
 
+Starte:
+
+![Bild](pic/Start.png)
+
 ---
 
 <div style="position:absolute; left:2cm; ">   
