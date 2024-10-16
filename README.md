@@ -10,7 +10,17 @@
 </div>
 
 
+## Story
+Scratch ist eine einfache, visuelle Programmiersprache, mit der junge Menschen ganz einfach digitale Geschichten, Spiele und Animationen erstellen können. Die Scratch Foundation, eine Non-Profit-Organisation, designt, entwickelt und moderiert Scratch.
 
+Link: https://scratch.mit.edu/
+
+Das Beispiel zeigt einen Flug durch unser Sonnensystem. Mit den Tasten E (erde), M (Merkur), N (Neptun), S (Saturn), V (Venus), J (Jupiter) und U (Uranus) werden die Planeten mit der Apollo angeflogen.
+Das Bild Sonnensystem png dien als Hintergrund.
+
+![Bild](pic/Sonnensystem.png)
+
+![Bild](pic/Apollo-Mission_Programm.png)
 
 ---
 
