@@ -11,7 +11,7 @@
 
 
 ## Story
-Scratch ist eine einfache, visuelle Programmiersprache, mit der junge Menschen ganz einfach digitale Geschichten, Spiele und Animationen erstellen können. Die Scratch Foundation, eine Non-Profit-Organisation, designt, entwickelt und moderiert Scratch.
+Scratch ist eine einfache, visuelle Programmiersprache, mit der ganz einfach digitale Geschichten, Spiele und Animationen erstellt werden können. Die Scratch Foundation, eine Non-Profit-Organisation, designt, entwickelt und moderiert Scratch.
 
 Link: https://scratch.mit.edu/
 
