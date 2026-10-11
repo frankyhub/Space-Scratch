@@ -2,12 +2,15 @@
 
 <div align="center">
 
-|[:skull:ISSUE](https://github.com/frankyhub/Space-Scratch/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Space-Scratch/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Space-Scratch/wiki)||
+|[:skull:ISSUE](https://github.com/frankyhub/Space-ScratchMarkdown/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Space-ScratchMarkdown/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Space-ScratchMarkdown/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2087-blue)|<a href="https://github.com/frankyhub/Space-Scratch/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Space-Scratch)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Space-Scratch)|<a href="https://github.com/frankyhub/Space-Scratch/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Space-Scratch)|<a href="https://github.com/frankyhub/Space-Scratch/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Space-Scratch)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Space-Scratch)| <a href="https://github.com/frankyhub/Space-Scratch/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Space-Scratch/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/Space-ScratchMarkdown/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Space-ScratchMarkdown)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Space-ScratchMarkdown)|<a href="https://github.com/frankyhub/Space-ScratchMarkdown/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Space-ScratchMarkdown)|<a href="https://github.com/frankyhub/Space-ScratchMarkdown/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Space-ScratchMarkdown)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2087-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Space-ScratchMarkdown)| <a href="https://github.com/frankyhub/Space-ScratchMarkdown/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Space-ScratchMarkdown/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
 </div>
+
+
 
 
 ## Story
@@ -20,15 +23,20 @@ Das Bild Sonnensystem.png dient als Hintergrund.
 
 Hintergrund:
 
-![Bild](pic/Sonnensystem.png)
+<img src="pic/Sonnensystem.png" width="500"> 
+<br> <br>
+
 
 Programm:
 
-![Bild](pic/Apollo-Mission_Programm.png)
+<img src="pic/Apollo-Mission_Programm.png" width="500"> 
+<br> <br>
+
 
 Starte:
 
-![Bild](pic/Start.png)
+<img src="pic/Start.png" width="500"> 
+<br> <br>
 
 ---
 
